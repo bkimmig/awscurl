@@ -12,6 +12,13 @@ or [ECS Tasks](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-
 
 ## Installation
 
+### Homebrew
+
+```
+brew tap bkimmig/tools
+brew install bkimmig/tools/awscurl
+```
+
 ### Build from Source
 
 #### Prerequisites
